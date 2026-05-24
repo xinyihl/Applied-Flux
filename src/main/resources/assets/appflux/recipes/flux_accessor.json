@@ -1,0 +1,1 @@
+{"type":"forge:ore_shaped","pattern":["DPD","IMI","DPD"],"key":{"D":{"type":"forge:ore_dict","ore":"dustGlowstone"},"I":{"type":"forge:ore_dict","ore":"ingotCopper"},"M":{"item":"ae2:energy_acceptor"},"P":{"item":"appflux:energy_processor"}},"result":{"item":"appflux:flux_accessor"}}

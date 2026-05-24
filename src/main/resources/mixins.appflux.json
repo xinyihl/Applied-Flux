@@ -1,0 +1,23 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.glodblock.github.appflux.mixins",
+  "refmap": "mixins.appflux.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinContainerPatternProvider",
+    "MixinCraftingServiceStorage",
+    "MixinCreativeEnergyCell",
+    "MixinInterfaceBlock",
+    "MixinInterfaceLogic",
+    "MixinInterfacePart",
+    "MixinPatternProviderBlock",
+    "MixinPatternProviderLogic",
+    "MixinPatternProviderLogicHost",
+    "MixinPatternProviderPart"
+  ],
+  "client": [
+    "MixinGuiPatternProvider"
+  ],
+  "server": []
+}

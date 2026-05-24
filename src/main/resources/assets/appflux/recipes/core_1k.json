@@ -1,0 +1,1 @@
+{"type":"forge:ore_shaped","pattern":["DCD","CPC","DCD"],"key":{"D":{"type":"forge:ore_dict","ore":"dustCertusQuartz"},"C":{"item":"appflux:redstone_crystal"},"P":{"item":"ae2:logic_processor"}},"result":{"item":"appflux:core_1k"}}

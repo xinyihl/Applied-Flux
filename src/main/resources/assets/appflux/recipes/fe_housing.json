@@ -1,0 +1,1 @@
+{"type":"forge:ore_shaped","pattern":["GDG","D D","III"],"key":{"D":{"type":"forge:ore_dict","ore":"dustRedstone"},"G":{"item":"ae2:quartz_glass"},"I":{"item":"appflux:harden_insulating_resin"}},"result":{"item":"appflux:fe_cell_housing"}}

@@ -1,0 +1,1 @@
+{"type":"forge:ore_shaped","pattern":["DPD","LGL","DLD"],"key":{"D":{"type":"forge:ore_dict","ore":"dustEnderPearl"},"L":{"item":"appflux:core_64k"},"G":{"item":"ae2:quartz_vibrant_glass"},"P":{"item":"appflux:energy_processor"}},"result":{"item":"appflux:core_256k"}}

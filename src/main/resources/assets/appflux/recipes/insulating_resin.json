@@ -1,0 +1,1 @@
+{"type":"forge:ore_shapeless","ingredients":[{"item":"minecraft:water_bucket"},{"item":"minecraft:cactus"},{"item":"minecraft:cactus"},{"item":"minecraft:dye","data":15},{"type":"forge:ore_dict","ore":"itemSilicon"},{"item":"minecraft:slime_ball"},{"type":"forge:ore_dict","ore":"dustGlowstone"}],"result":{"item":"appflux:insulating_resin"}}
